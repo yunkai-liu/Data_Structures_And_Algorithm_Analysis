@@ -1,4 +1,4 @@
-package structures.list.arraylist;
+package structures.list;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
